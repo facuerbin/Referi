@@ -1,7 +1,7 @@
 {
 	"_type": "Project",
 	"_id": "AAAAAAFF+h6SjaM2Hec=",
-	"name": "Sporter",
+	"name": "Referí",
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Sporter",
+					"name": "Diagrama de Clases",
 					"defaultDiagram": true
 				},
 				{
@@ -36604,5 +36604,6 @@
 			]
 		}
 	],
-	"documentation": "Proyecto final de Ingeniería en Sistemas de Infromación, UTN FRM.\nCayo, Rocio\nErbin, Facundo\nSanfurgo, Diego"
+	"documentation": "Proyecto final de Ingeniería en Sistemas de Infromación, UTN FRM.\nCayo, Rocio\nErbin, Facundo\nSanfurgo, Diego",
+	"version": "1.0"
 }
